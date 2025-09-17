@@ -1,0 +1,259 @@
+Mon 16 Jun 2025 04:38:39 AM UTC
+Jobid: 5686003.aurora-pbs-0001.hostmgmt.cm.aurora.alcf.anl.gov
+Running on nodes x4107c2s1b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c2s2b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c2s5b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c3s6b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c4s0b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c4s1b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c4s4b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c4s5b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c4s6b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c4s7b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c5s0b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c5s1b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c5s2b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c5s3b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c5s4b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c5s5b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c5s6b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c5s7b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c6s0b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c6s1b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c6s2b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c6s3b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c6s4b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c6s5b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c6s6b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c6s7b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c7s1b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c7s2b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c7s4b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c7s5b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c7s6b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c7s7b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4118c7s4b0n0.hostmgmt2118.cm.aurora.alcf.anl.gov x4118c7s5b0n0.hostmgmt2118.cm.aurora.alcf.anl.gov x4118c7s6b0n0.hostmgmt2118.cm.aurora.alcf.anl.gov x4118c7s7b0n0.hostmgmt2118.cm.aurora.alcf.anl.gov x4212c0s0b0n0.hostmgmt2212.cm.aurora.alcf.anl.gov x4212c0s1b0n0.hostmgmt2212.cm.aurora.alcf.anl.gov x4215c1s1b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c1s3b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c1s4b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c1s5b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c1s7b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c2s0b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c2s2b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c2s3b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c2s4b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c2s5b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c2s6b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c2s7b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c3s0b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c3s1b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c3s2b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c3s3b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c3s4b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c3s5b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c3s6b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c3s7b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c4s0b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c4s1b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4215c4s3b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4301c5s0b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c5s1b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c5s2b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c5s3b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c5s4b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c5s5b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c5s6b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c5s7b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c7s1b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c7s2b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c7s3b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c7s4b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c7s5b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c7s6b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4301c7s7b0n0.hostmgmt2301.cm.aurora.alcf.anl.gov x4304c5s0b0n0.hostmgmt2304.cm.aurora.alcf.anl.gov x4304c6s4b0n0.hostmgmt2304.cm.aurora.alcf.anl.gov x4304c7s7b0n0.hostmgmt2304.cm.aurora.alcf.anl.gov x4307c4s1b0n0.hostmgmt2307.cm.aurora.alcf.anl.gov x4307c4s2b0n0.hostmgmt2307.cm.aurora.alcf.anl.gov x4307c4s3b0n0.hostmgmt2307.cm.aurora.alcf.anl.gov x4106c6s2b0n0.hostmgmt2106.cm.aurora.alcf.anl.gov x4106c6s3b0n0.hostmgmt2106.cm.aurora.alcf.anl.gov x4106c6s4b0n0.hostmgmt2106.cm.aurora.alcf.anl.gov x4106c6s5b0n0.hostmgmt2106.cm.aurora.alcf.anl.gov x4106c6s6b0n0.hostmgmt2106.cm.aurora.alcf.anl.gov x4108c3s3b0n0.hostmgmt2108.cm.aurora.alcf.anl.gov x4108c3s4b0n0.hostmgmt2108.cm.aurora.alcf.anl.gov x4108c3s5b0n0.hostmgmt2108.cm.aurora.alcf.anl.gov x4108c3s6b0n0.hostmgmt2108.cm.aurora.alcf.anl.gov x4108c3s7b0n0.hostmgmt2108.cm.aurora.alcf.anl.gov x4204c0s1b0n0.hostmgmt2204.cm.aurora.alcf.anl.gov x4110c3s5b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c3s6b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c3s7b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c4s0b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c4s1b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c5s6b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c5s7b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c6s0b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c6s1b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c6s2b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c6s3b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c6s4b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c6s5b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c6s6b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c6s7b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c7s0b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c7s1b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c7s2b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c7s4b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c7s5b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c7s6b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4110c7s7b0n0.hostmgmt2110.cm.aurora.alcf.anl.gov x4111c3s6b0n0.hostmgmt2111.cm.aurora.alcf.anl.gov x4111c4s0b0n0.hostmgmt2111.cm.aurora.alcf.anl.gov x4111c4s1b0n0.hostmgmt2111.cm.aurora.alcf.anl.gov x4111c4s2b0n0.hostmgmt2111.cm.aurora.alcf.anl.gov x4111c4s3b0n0.hostmgmt2111.cm.aurora.alcf.anl.gov x4111c4s4b0n0.hostmgmt2111.cm.aurora.alcf.anl.gov x4111c4s6b0n0.hostmgmt2111.cm.aurora.alcf.anl.gov x4116c1s6b0n0.hostmgmt2116.cm.aurora.alcf.anl.gov x4116c1s7b0n0.hostmgmt2116.cm.aurora.alcf.anl.gov x4116c4s5b0n0.hostmgmt2116.cm.aurora.alcf.anl.gov x4116c4s6b0n0.hostmgmt2116.cm.aurora.alcf.anl.gov x4116c4s7b0n0.hostmgmt2116.cm.aurora.alcf.anl.gov x4116c5s0b0n0.hostmgmt2116.cm.aurora.alcf.anl.gov x4302c3s0b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c3s1b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c3s2b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c3s3b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c3s4b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c3s5b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c3s6b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c3s7b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c4s0b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c4s1b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c4s2b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c4s3b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4302c4s5b0n0.hostmgmt2302.cm.aurora.alcf.anl.gov x4703c0s0b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c0s1b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c0s2b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c0s3b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c0s4b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c0s5b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c0s6b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c0s7b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c1s0b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c1s1b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c1s2b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c1s3b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c1s4b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c1s5b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c1s6b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c1s7b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c2s0b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c2s1b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c2s2b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c2s3b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c2s4b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c2s5b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c2s7b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c3s0b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c3s1b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c3s2b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c3s3b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c3s4b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c3s5b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c3s6b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c3s7b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4703c4s0b0n0.hostmgmt2703.cm.aurora.alcf.anl.gov x4100c3s6b0n0.hostmgmt2100.cm.aurora.alcf.anl.gov x4103c2s5b0n0.hostmgmt2103.cm.aurora.alcf.anl.gov x4103c3s7b0n0.hostmgmt2103.cm.aurora.alcf.anl.gov x4103c4s4b0n0.hostmgmt2103.cm.aurora.alcf.anl.gov x4103c4s5b0n0.hostmgmt2103.cm.aurora.alcf.anl.gov x4105c1s4b0n0.hostmgmt2105.cm.aurora.alcf.anl.gov x4107c3s7b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c4s2b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4107c4s3b0n0.hostmgmt2107.cm.aurora.alcf.anl.gov x4118c0s7b0n0.hostmgmt2118.cm.aurora.alcf.anl.gov x4118c1s4b0n0.hostmgmt2118.cm.aurora.alcf.anl.gov x4118c3s1b0n0.hostmgmt2118.cm.aurora.alcf.anl.gov x4212c3s5b0n0.hostmgmt2212.cm.aurora.alcf.anl.gov x4212c5s5b0n0.hostmgmt2212.cm.aurora.alcf.anl.gov x4212c5s7b0n0.hostmgmt2212.cm.aurora.alcf.anl.gov x4215c2s1b0n0.hostmgmt2215.cm.aurora.alcf.anl.gov x4307c7s2b0n0.hostmgmt2307.cm.aurora.alcf.anl.gov x4311c2s2b0n0.hostmgmt2311.cm.aurora.alcf.anl.gov x4313c4s5b0n0.hostmgmt2313.cm.aurora.alcf.anl.gov
+NUM_OF_NODES=192  TOTAL_NUM_RANKS=12288  RANKS_PER_NODE=64 CPU_BINDING=list:4:56:5:57:6:58:7:59:8:60:9:61:10:62:11:63:12:64:13:65:14:66:15:67:16:68:17:69:18:70:19:71:20:72:21:73:22:74:23:75:24:76:25:77:26:78:27:79:28:80:29:81:30:82:31:83:32:84:33:85:34:86:35:87:36:88:37:89:38:90:39:91:40:92:41:93:42:94:43:95:44:96:45:97:46:98:47:99:48:100:49:101:50:102:51:103
+/usr/bin/daos
+DAOS CLI version 2.6.3, libdaos v2.7.0
+182721
+daos_ag+ 182721      1  1 04:38 ?        00:00:00 /usr/bin/daos_agent --config-path=/etc/daos/daos_agent_oneScratch.yml --runtime_dir=/run/daos_agent_oneScratch --logfile=/var/log/daos_agent/daos_agent_oneScratch.log
+kaushik+ 182894 182865  0 04:38 ?        00:00:00 grep daos
+Pool 751f934f-9ab3-4611-b10e-4d2fc9ac0129, ntarget=4128, disabled=178, leader=125, version=1108, state=Degraded
+Pool health info:
+- Rebuild done, 0 objs, 0 recs
+Pool space info:
+- Target(VOS) count:3950
+- Storage tier 0 (SCM):
+  Total size: 2.9 TB
+  Free: 2.5 TB, min:633 MB, max:636 MB, mean:633 MB
+- Storage tier 1 (NVMe):
+  Total size: 94 TB
+  Free: 93 TB, min:24 GB, max:24 GB, mean:24 GB
+Successfully created container 18c194f1-dee7-43d9-bc5b-17c3b8ed9573
+  Container UUID : 18c194f1-dee7-43d9-bc5b-17c3b8ed9573
+  Container Label: peak_bw_test_cont                   
+  Container Type : POSIX                               
+
+check container peak_bw_test_cont started at: Mon Jun 16 04:38:42 2025
+
+check container peak_bw_test_cont completed at: Mon Jun 16 04:38:42 2025
+
+checked: 1
+skipped: 0
+inconsistent: 0
+run_time: 1 seconds
+scan_speed: 1 objs/sec
+  Container UUID              : 18c194f1-dee7-43d9-bc5b-17c3b8ed9573                        
+  Container Label             : peak_bw_test_cont                                           
+  Container Type              : POSIX                                                       
+  Pool UUID                   : 751f934f-9ab3-4611-b10e-4d2fc9ac0129                        
+  Container redundancy factor : 2                                                           
+  Number of open handles      : 1                                                           
+  Latest open time            : 0x1f3796d04f640000 (2025-06-16 04:38:42.520260608 +0000 UTC)
+  Latest close/modify time    : 0x1f3796d121380000 (2025-06-16 04:38:42.740281344 +0000 UTC)
+  Number of snapshots         : 0                                                           
+  Object Class                : UNKNOWN                                                     
+  Dir Object Class            : RP_3G1                                                      
+  File Object Class           : EC_16P2GX                                                   
+  Chunk Size                  : 2.0 MiB                                                     
+
+Properties for container peak_bw_test_cont
+Name                                             Value                               
+----                                             -----                               
+Highest Allocated OID (alloc_oid)                0                                   
+Checksum (cksum)                                 crc32                               
+Checksum Chunk Size (cksum_size)                 32 KiB                              
+Compression (compression)                        off                                 
+Deduplication (dedup)                            off                                 
+Dedupe Threshold (dedup_threshold)               4.0 KiB                             
+EC Cell Size (ec_cell_sz)                        128 KiB                             
+Performance domain affinity level of EC (ec_pda) 1                                   
+Encryption (encryption)                          off                                 
+Global Version (global_version)                  3                                   
+Group (group)                                    users@                              
+Label (label)                                    peak_bw_test_cont                   
+Layout Type (layout_type)                        POSIX (1)                           
+Layout Version (layout_version)                  1                                   
+Max Snapshot (max_snapshot)                      0                                   
+Object Version (obj_version)                     1                                   
+Owner (owner)                                    kaushikvelusamy@                    
+Performance domain level (perf_domain)           root (255)                          
+Redundancy Factor (rd_fac)                       rd_fac2                             
+Redundancy Level (rd_lvl)                        node (2)                            
+Performance domain affinity level of RP (rp_pda) 4294967295                          
+Server Checksumming (srv_cksum)                  on                                  
+Health (status)                                  HEALTHY                             
+Access Control List (acl)                        A::OWNER@:rwdtTaAo, A:G:GROUP@:rwtT 
+dfuse on /tmp/datascience/peak_bw_test_cont type fuse.daos (rw,nosuid,nodev,noatime,user_id=36160,group_id=100,default_permissions)
+IOR-4.1.0+dev: MPI Coordinated Test of Parallel I/O
+Began               : Mon Jun 16 04:39:18 2025
+Command line        : /soft/daos/examples/daos_peak_test/ior_mdtest_install_bin//bin/ior -a posix -i 5 -b 1g -t 2m -D 100 -w -r -C -e -v -o /tmp/datascience/peak_bw_test_cont/io_file.dat
+Machine             : Linux x4107c2s1b0n0
+TestID              : 0
+StartTime           : Mon Jun 16 04:39:18 2025
+Path                : /tmp/datascience/peak_bw_test_cont/io_file.dat
+FS                  : 87.7 TiB   Used FS: 0.8%   Inodes: -0.0 Mi   Used Inodes: 0.0%
+
+Options: 
+api                 : posix
+apiVersion          : 
+test filename       : /tmp/datascience/peak_bw_test_cont/io_file.dat
+access              : single-shared-file
+type                : independent
+segments            : 1
+ordering in a file  : sequential
+ordering inter file : constant task offset
+task offset         : 1
+nodes               : 192
+tasks               : 12288
+clients per node    : 64
+memoryBuffer        : CPU
+dataAccess          : CPU
+GPUDirect           : 0
+repetitions         : 5
+xfersize            : 2 MiB
+blocksize           : 1 GiB
+aggregate filesize  : 12 TiB
+verbose             : 1
+stonewallingTime    : 100
+stoneWallingWearOut : 0
+
+Results: 
+
+access    bw(MiB/s)  IOPS       Latency(s)  block(KiB) xfer(KiB)  open(s)    wr/rd(s)   close(s)   total(s)   iter
+------    ---------  ----       ----------  ---------- ---------  --------   --------   --------   --------   ----
+write     2016117    1008825    0.002276    1048576    2048.00    3.21       6.24       5.07       6.24       0   
+read      3176216    1590783    0.006885    1048576    2048.00    2.42       3.95       2.13       3.96       0   
+remove    -          -          -           -          -          -          -          -          0.008092   0   
+write     2573828    1293516    0.006585    1048576    2048.00    1.58       4.86       2.43       4.89       1   
+read      3137085    1571026    0.007081    1048576    2048.00    2.47       4.00       1.99       4.01       1   
+remove    -          -          -           -          -          -          -          -          0.007931   1   
+write     2633896    1319570    0.006527    1048576    2048.00    1.37       4.77       3.96       4.78       2   
+read      2965355    1484881    0.006454    1048576    2048.00    1.77       4.24       2.29       4.24       2   
+remove    -          -          -           -          -          -          -          -          0.008034   2   
+write     2238228    1120995    0.007636    1048576    2048.00    1.36       5.61       4.73       5.62       3   
+read      2685626    1344641    0.007748    1048576    2048.00    1.87       4.68       1.92       4.69       3   
+remove    -          -          -           -          -          -          -          -          0.009099   3   
+write     1019491    510127     0.019624    1048576    2048.00    1.72       12.33      11.63      12.34      4   
+read      2685432    1344455    0.006985    1048576    2048.00    1.54       4.68       1.98       4.69       4   
+remove    -          -          -           -          -          -          -          -          0.016380   4   
+Max Write: 2633895.54 MiB/sec (2761839.65 MB/sec)
+Max Read:  3176216.41 MiB/sec (3330504.30 MB/sec)
+
+Summary of all tests:
+Operation   Max(MiB)   Min(MiB)  Mean(MiB)     StdDev   Max(OPs)   Min(OPs)  Mean(OPs)     StdDev    Mean(s) Stonewall(s) Stonewall(MiB) Test# #Tasks tPN reps fPP reord reordoff reordrand seed segcnt   blksiz    xsize aggs(MiB)   API RefNum
+write     2633895.54 1019490.60 2096311.95  583632.39 1316947.77  509745.30 1048155.98  291816.19    6.77429         NA            NA     0  12288  64    5   0     1        1         0    0      1 1073741824  2097152 12582912.0 posix      0
+read      3176216.41 2685432.24 2929943.09  211796.41 1588108.20 1342716.12 1464971.54  105898.21    4.31737         NA            NA     0  12288  64    5   0     1        1         0    0      1 1073741824  2097152 12582912.0 posix      0
+Finished            : Mon Jun 16 04:40:20 2025
+Successfully destroyed container peak_bw_test_cont
+Successfully created container 91afe281-11f2-4e8d-a05e-de51e6036b33
+  Container UUID : 91afe281-11f2-4e8d-a05e-de51e6036b33
+  Container Label: peak_bw_test_cont                   
+  Container Type : POSIX                               
+
+check container peak_bw_test_cont started at: Mon Jun 16 04:41:12 2025
+
+check container peak_bw_test_cont completed at: Mon Jun 16 04:41:12 2025
+
+checked: 1
+skipped: 0
+inconsistent: 0
+run_time: 1 seconds
+scan_speed: 1 objs/sec
+  Container UUID              : 91afe281-11f2-4e8d-a05e-de51e6036b33                        
+  Container Label             : peak_bw_test_cont                                           
+  Container Type              : POSIX                                                       
+  Pool UUID                   : 751f934f-9ab3-4611-b10e-4d2fc9ac0129                        
+  Container redundancy factor : 0                                                           
+  Number of open handles      : 1                                                           
+  Latest open time            : 0x1f3798fe439c0000 (2025-06-16 04:41:12.29489152 +0000 UTC) 
+  Latest close/modify time    : 0x1f3798feed080000 (2025-06-16 04:41:12.472543232 +0000 UTC)
+  Number of snapshots         : 0                                                           
+  Object Class                : UNKNOWN                                                     
+  Dir Object Class            : S1                                                          
+  File Object Class           : SX                                                          
+  Chunk Size                  : 2.0 MiB                                                     
+
+Properties for container peak_bw_test_cont
+Name                                             Value                               
+----                                             -----                               
+Highest Allocated OID (alloc_oid)                0                                   
+Checksum (cksum)                                 crc32                               
+Checksum Chunk Size (cksum_size)                 32 KiB                              
+Compression (compression)                        off                                 
+Deduplication (dedup)                            off                                 
+Dedupe Threshold (dedup_threshold)               4.0 KiB                             
+EC Cell Size (ec_cell_sz)                        128 KiB                             
+Performance domain affinity level of EC (ec_pda) 1                                   
+Encryption (encryption)                          off                                 
+Global Version (global_version)                  3                                   
+Group (group)                                    users@                              
+Label (label)                                    peak_bw_test_cont                   
+Layout Type (layout_type)                        POSIX (1)                           
+Layout Version (layout_version)                  1                                   
+Max Snapshot (max_snapshot)                      0                                   
+Object Version (obj_version)                     1                                   
+Owner (owner)                                    kaushikvelusamy@                    
+Performance domain level (perf_domain)           root (255)                          
+Redundancy Factor (rd_fac)                       rd_fac0                             
+Redundancy Level (rd_lvl)                        node (2)                            
+Performance domain affinity level of RP (rp_pda) 4294967295                          
+Server Checksumming (srv_cksum)                  on                                  
+Health (status)                                  HEALTHY                             
+Access Control List (acl)                        A::OWNER@:rwdtTaAo, A:G:GROUP@:rwtT 
+dfuse on /tmp/datascience/peak_bw_test_cont type fuse.daos (rw,nosuid,nodev,noatime,user_id=36160,group_id=100,default_permissions)
+IOR-4.1.0+dev: MPI Coordinated Test of Parallel I/O
+Began               : Mon Jun 16 04:41:20 2025
+Command line        : /soft/daos/examples/daos_peak_test/ior_mdtest_install_bin//bin/ior -a DFS --dfs.pool=datascience --dfs.cont=peak_bw_test_cont --dfs.oclass=SX --dfs.dir_oclass=S1 --dfs.chunk_size=2097152 -i 5 -b 1g -t 2m -D 100 -w -r -C -e -v -o /io2.dat
+Machine             : Linux x4107c2s1b0n0
+[0] DFS Pool = datascience
+[0] DFS Container = peak_bw_test_cont
+TestID              : 0
+StartTime           : Mon Jun 16 04:41:21 2025
+Path                : /io2.dat
+FS                  : 87.7 TiB   Used FS: 12.9%   Inodes: -0.0 Mi   Used Inodes: 0.0%
+
+Options: 
+api                 : DFS
+apiVersion          : DAOS
+test filename       : /io2.dat
+access              : single-shared-file
+type                : independent
+segments            : 1
+ordering in a file  : sequential
+ordering inter file : constant task offset
+task offset         : 1
+nodes               : 192
+tasks               : 12288
+clients per node    : 64
+memoryBuffer        : CPU
+dataAccess          : CPU
+GPUDirect           : 0
+repetitions         : 5
+xfersize            : 2 MiB
+blocksize           : 1 GiB
+aggregate filesize  : 12 TiB
+verbose             : 1
+stonewallingTime    : 100
+stoneWallingWearOut : 0
+
+Results: 
+
+access    bw(MiB/s)  IOPS       Latency(s)  block(KiB) xfer(KiB)  open(s)    wr/rd(s)   close(s)   total(s)   iter
+------    ---------  ----       ----------  ---------- ---------  --------   --------   --------   --------   ----
+write     5241637    2625514    0.004529    1048576    2048.00    0.009157   2.40       0.324558   2.40       0   
+read      4477273    2242243    0.005186    1048576    2048.00    0.009243   2.81       0.468319   2.81       0   
+remove    -          -          -           -          -          -          -          -          0.017239   0   
+write     5251556    2630050    0.004548    1048576    2048.00    0.008077   2.39       0.338314   2.40       1   
+read      4474023    2240422    0.005154    1048576    2048.00    0.009022   2.81       0.431129   2.81       1   
+remove    -          -          -           -          -          -          -          -          0.014287   1   
+write     5283180    2645866    0.004552    1048576    2048.00    0.008277   2.38       0.363320   2.38       2   
+read      4488618    2247649    0.005341    1048576    2048.00    0.008287   2.80       0.446752   2.80       2   
+remove    -          -          -           -          -          -          -          -          0.013332   2   
+write     5244812    2626798    0.004526    1048576    2048.00    0.008415   2.40       0.365331   2.40       3   
+read      4491583    2249340    0.005229    1048576    2048.00    0.008843   2.80       0.486533   2.80       3   
+remove    -          -          -           -          -          -          -          -          0.013768   3   
+write     5263042    2635752    0.004501    1048576    2048.00    0.008204   2.39       0.339205   2.39       4   
+read      4493582    2250228    0.004961    1048576    2048.00    0.008397   2.80       0.473434   2.80       4   
+remove    -          -          -           -          -          -          -          -          0.015530   4   
+Max Write: 5283179.91 MiB/sec (5539815.65 MB/sec)
+Max Read:  4493582.32 MiB/sec (4711862.57 MB/sec)
+[0] Disconnecting from DAOS POOL
+[0] Finalizing DAOS..
+
+Summary of all tests:
+Operation   Max(MiB)   Min(MiB)  Mean(MiB)     StdDev   Max(OPs)   Min(OPs)  Mean(OPs)     StdDev    Mean(s) Stonewall(s) Stonewall(MiB) Test# #Tasks tPN reps fPP reord reordoff reordrand seed segcnt   blksiz    xsize aggs(MiB)   API RefNum
+write     5283179.91 5241637.38 5256845.52   15072.89 2641589.95 2620818.69 2628422.76    7536.44    2.39364         NA            NA     0  12288  64    5   0     1        1         0    0      1 1073741824  2097152 12582912.0 DFS      0
+read      4493582.32 4474022.88 4485015.87    7877.50 2246791.16 2237011.44 2242507.94    3938.75    2.80555         NA            NA     0  12288  64    5   0     1        1         0    0      1 1073741824  2097152 12582912.0 DFS      0
+Finished            : Mon Jun 16 04:41:47 2025
+Successfully destroyed container peak_bw_test_cont
+Mon 16 Jun 2025 04:42:38 AM UTC
